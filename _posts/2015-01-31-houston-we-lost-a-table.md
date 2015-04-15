@@ -26,4 +26,4 @@ Nothing of that happened... so we decided to drop waterline.
 One reason we switched from mongodb to postgres is that we required an ACID transactional database. The switch to postgres went smooth... until we realized that there is no transaction support in waterline. I have read hacks here and there but it is not properly supported. We will be processing payments soon and we need to be rock solid on what data is persisted and when.
 
 
-We are in the process of rewriting the whole model layer using bookshelfjs.org / knexjs.org.
+We are in the process of rewriting the whole model layer using Sequelize and it's just awesome.
