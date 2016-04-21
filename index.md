@@ -1,11 +1,11 @@
 ---
 layout: page
-title: MaLigue.ca
+title: Maligue.ca
 tagline: How we got there...
 ---
 {% include JB/setup %}
 
-Welcome to the dev blog of [MaLigue.ca](https://www.maligue.ca).
+Welcome to the dev blog of [Maligue.ca](https://www.maligue.ca).
     
 ## Posts
 
